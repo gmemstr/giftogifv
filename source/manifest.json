@@ -1,7 +1,7 @@
 {
   "name": ".gif to .gifv",
   "description": "Tired of viewing gifs on Imgur? Use gifv!",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "background": {"scripts":["background.js"]},
   "permissions": [
