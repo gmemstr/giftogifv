@@ -2,7 +2,7 @@
 quickly converts .gif links to .gifv on Imgur.
 
 # usage
-just download giftogifv.crx, then drag+drop it in to Chrome
+clone the repository using the Download ZIP button, unzip it, then go to Settings > Extensions > Developer mode > Load unpacked extension and select the folder that contains the manifest.json file.
 
 # porting
-i want to port this to as many browsers as possible, so feel free to do so. be sure to give credit to me though ;P
+i'm working on porting this to Firefox, feel free to fork the project and give me a hand with it. 
